@@ -1,0 +1,17 @@
+MicroPython v1.27.0-kaki5 on 2026-01-01; ESP32 AP-NAT (KAKI5) with ESP32
+>>> 
+Remount local directory ./ at /remote
+>>> import start_nat
+Connecting to Wi-Fi.......
+Connected to external Wi-Fi with IP: 192.168.5.10
+AP mode active with IP: 10.10.6.1
+Starting NAT Router...
+Stop DHCP server on AP first.
+NAT Router: Start DNS on AP from STA.
+NAT Router: Enabling NAPT on AP interface.
+NAT Router: Start DHCP server on AP.
+NAT Router: Setting default network interface to STA.
+AP Config: ('10.10.6.1', '255.255.255.0', '10.10.6.1', '192.168.4.1')
+STA Config: ('192.168.5.10', '255.255.252.0', '192.168.4.1', '192.168.4.1')
+NAT Router is active.
+

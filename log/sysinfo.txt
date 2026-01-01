@@ -1,0 +1,23 @@
+MicroPython v1.27.0-kaki5 on 2026-01-01; ESP32 AP-NAT (KAKI5) with ESP32
+>>> import sysinfo
+>>> sysinfo.show()
+ID ............: 841fe832c6c8
+MCU ...........: ESP32
+Memory
+   total ......: 162.6875 KB
+   usage ......: 15.921875 KB (9.316174%)
+   free .......: 146.75 KB (90.76066%)
+Filesystem
+   total ......: 2048.0 KB
+   usage ......: 16.0 KB (0.78125%)
+   free .......: 2032.0 KB (99.21875%)
+SYSTEM
+   platform ...: MicroPython-1.27.0-xtensa-IDFv5.5.1-with-newlib4.3.0
+   type .......: ESP32
+   node .......: esp32
+   release ....: 1.27.0
+   version ....: v1.27.0-kaki5 on 2026-01-01
+   board ......: ESP32 AP-NAT (KAKI5) with ESP32
+   speed ......: 240000000 Hz
+>>> 
+
